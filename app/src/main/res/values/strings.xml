@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project1trpl3b_pito</string>
+    <string name="title"></string>
+    <string name="kotaTujuan">Kota Tujuan</string>
+    <string name="txtTiketPesawat">TIKET PESAWAT</string>
+    <string-array name="dropdown_item">
+        <item>Debit</item>
+        <item>Cash</item>
+        <item>Seterah</item>
+    </string-array>
+</resources>
